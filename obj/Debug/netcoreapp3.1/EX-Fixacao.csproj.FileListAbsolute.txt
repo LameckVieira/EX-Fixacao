@@ -1,0 +1,13 @@
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\bin\Debug\netcoreapp3.1\EX-Fixacao.exe
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\bin\Debug\netcoreapp3.1\EX-Fixacao.deps.json
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\bin\Debug\netcoreapp3.1\EX-Fixacao.runtimeconfig.json
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\bin\Debug\netcoreapp3.1\EX-Fixacao.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\bin\Debug\netcoreapp3.1\EX-Fixacao.dll
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\bin\Debug\netcoreapp3.1\EX-Fixacao.pdb
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\obj\Debug\netcoreapp3.1\EX-Fixacao.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\obj\Debug\netcoreapp3.1\EX-Fixacao.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\obj\Debug\netcoreapp3.1\EX-Fixacao.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\obj\Debug\netcoreapp3.1\EX-Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\obj\Debug\netcoreapp3.1\EX-Fixacao.dll
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\obj\Debug\netcoreapp3.1\EX-Fixacao.pdb
+C:\Users\Lameck\Desktop\C#\EX-Fixacao\EX-Fixacao\obj\Debug\netcoreapp3.1\EX-Fixacao.genruntimeconfig.cache
