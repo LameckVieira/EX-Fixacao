@@ -67,13 +67,60 @@ namespace EX_Fixacao
             //         Console.WriteLine("Opção inválida");
             //         break;
             // }
-            Console.WriteLine("Exercício 3");
+            // Console.WriteLine("Exercício 3");
 
+            // Console.WriteLine("Exercício 4");
+            // int[] n = new int [10];
 
-            
-             
+            // int maiorValor, menorValor;
+            // maiorValor = 0;
+            // menorValor = 0;
+            // Console.WriteLine("Digite 10 números:");
+            // for (var i = 0; i < 10; i++)
+            // {
+            //     n[i] = int.Parse(Console.ReadLine());
+            // }
+            // for (var i = 0; i < 10; i++)
+            // {
+            //    if(n[i] > n[0] && n[i] > n[1] && n[i] > n[2] && n[i] > n[3] && n[i] > n[4] && n[i] > n[5] && n[i] > n[6] && n[i] > n[7] && n[i] > n[8] && n[i] > n[9])
+            //    {
+            //         maiorValor = n[i];
+            //    }
+            // }   
+            // for (var i= 0; i < 10; i++)
+            // {
+            //     if(n[i] < n[0] && n[i] > n[1] && n[i] < n[2] && n[i] < n[3] && n[i] < n[4] && n[1] < n[5] && n[i] < n[6] && n[i] < n[7] && n[i] < n[8] && n[i] < n[9])
+            //     {
+            //         menorValor = n[i];
+            //     }
 
+            // } 
+            // Console.WriteLine($"O maior valor é {maiorValor} e o menor valor é {menorValor}");
 
+            // Console.WriteLine("Exercício 5");
+            // Console.WriteLine("Qual tabuada deseja?");
+            // int tabuada = int.Parse(Console.ReadLine());
+
+            // for (int n = 1; n <= 10; n++)
+            // {
+            //     for(int i = 1; i <= 10; i++)
+            //     {
+            //         Console.WriteLine(n + "x" + i + "=" + n*i);
+            //     }
+            //     Console.WriteLine();
+            // }
+            // Console.ReadLine();
+
+            Console.WriteLine("Exercício 6");
+
+            string[] nomes = new string[10]
+            string nome;
+
+            for(var i = 0; i < nomes.Length; i++)
+            {
+                Console.WriteLine("Digite um nome:");
+                nomes[i] = Console.ReadLine();
+            }
 
         }
     }
